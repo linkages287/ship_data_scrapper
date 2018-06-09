@@ -5,3 +5,6 @@ the package contains:
 - configuration file
 - program
 - web data collection file
+
+the output file provided is in a CSV form (.csv ext)
+
