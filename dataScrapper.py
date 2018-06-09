@@ -173,7 +173,7 @@ def main ():
 
     except:
         
-        print "link doesnt exist, or you are not connected to the network"
+        print "link doesnt work, or you are not connected to the network"
         print "...exiting program..."
         sys.exit(1)
         
